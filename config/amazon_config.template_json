@@ -1,10 +1,7 @@
 {
   "asin_groups": 2,
-  "asin_list_1": ["B07JH53M4T"],
-  "reserve_min_1": 10,
-  "reserve_max_1": 15,
-  "asin_list_2": ["B08HR7SV3M"],
-  "reserve_min_2": 15,
-  "reserve_max_2": 20,
-  "amazon_website": "smile.amazon.com"
+  "asin_list_1": ["B0815Y8J9N"],
+  "reserve_min_1": 1,
+  "reserve_max_1": 1,
+  "amazon_website": "https://www.amazon.com/AMD-Ryzen-5950X-32-Thread-Processor/dp/B0815Y8J9N/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0815Y8J9N&pd_rd_r=d88e67c0-4832-4519-a0fc-e3130b546fd9&pd_rd_w=sHZ58&pd_rd_wg=YT5TT&pf_rd_p=ed1e2146-ecfe-435e-b3b5-d79fa072fd58&pf_rd_r=4SXGQKVE8411J2KWXYT0&psc=1&refRID=4SXGQKVE8411J2KWXYT0&linkCode=sl1&tag=fixitservices-20&linkId=63a8c9fd213fffe173f0a14a2c5335e5&language=en_US"
 }
